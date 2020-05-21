@@ -56,7 +56,7 @@ if(len(a)==len(b)):
     if(result):
         print("Permutation")
     else:
-        print("permutation")
+        print("No permutation")
 
 else:
     print("No permuation")
